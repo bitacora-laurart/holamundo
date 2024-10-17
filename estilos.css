@@ -1,0 +1,37 @@
+body{
+   background: rgb(91, 230, 248); 
+   font-family: sans-serif;
+}
+header{
+    background-color: rgb(244, 248, 191);
+    height: 200px;
+    text-align: center;
+    line-height: 200px;
+    color: blueviolet;
+}
+nav{
+    background-color: aliceblue;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+}
+#uno{
+    background-color: rgb(145, 187, 241);
+    height: 500px;
+    width: 70%;
+    float: left;
+}
+#dos{
+    background-color: rgb(241, 145, 225);
+    height: 500px;
+    width: 30%;
+    float: left;
+}
+footer{
+    clear: both;
+    background-color: rgb(244, 248, 191);
+    height: 200px;
+    text-align: center;
+    line-height: 200px;
+    color: blueviolet;
+}
